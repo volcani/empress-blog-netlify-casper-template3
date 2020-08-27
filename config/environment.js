@@ -25,7 +25,7 @@ module.exports = function(environment) {
 
     blog: {
       title: '夜猫',
-      description: 'Static Blog System - Built with Ember',
+      description: 'Emberとやらを試してみる',
       coverImage: '/images/blog-cover.jpg',
 
       navigation: [{
